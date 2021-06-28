@@ -1,0 +1,12 @@
+h1{
+    font-style: italic;
+    color: rgb(223, 223, 231);
+    padding-left: 2%;
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    padding-left: 2%;
+    color: burlywood;
+}

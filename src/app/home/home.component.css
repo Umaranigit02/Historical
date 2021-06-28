@@ -1,0 +1,23 @@
+
+
+h2{
+    font-size: 100px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 20%;
+    line-height: 150%;  
+}
+
+  h2 {
+    
+    color: rgba(52, 41, 199, 0.959);
+    font-weight: 15px;
+    position: relative;
+    animation: mymove 4s infinite;
+    
+  }
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 300px;}
+  }
+  
